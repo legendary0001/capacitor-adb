@@ -1,7 +1,7 @@
 # capacitor-shell
 
-android shell capacitor plugin
-
+android shell capacitor plugin.
+you need to have adb binary in your app
 ## Install
 
 ```bash
